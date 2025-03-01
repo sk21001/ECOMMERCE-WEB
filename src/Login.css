@@ -1,0 +1,50 @@
+.div1{
+    
+    width: 100vw;
+    height: 100vh;
+     display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(https://wallpaperaccess.com/full/1567679.jpg);
+    
+    
+}
+.div2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: white;
+    width: 500px;
+    height: 300px;
+    border-radius: 8px;
+    border-color:black;
+    
+    
+    
+}
+.div3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    
+}.c5{
+    margin-top: 20px;
+    border-radius: 8px;
+}
+.bt1{
+    margin-top: 20px;
+    background-color:lightgreen;
+    width: 100%;
+    border-color: black;
+    
+}
+#id1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: aliceblue;
+}
