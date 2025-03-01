@@ -10,14 +10,11 @@
     padding: 20px;
     border-radius: 15px;
 }
-
-
 h1,li,ul{
     display: inline;
-    
 }
 ul{
-    margin-left: 70%;
+    margin-left: 75%;
     justify-content: space-evenly;
 
 }
@@ -100,4 +97,27 @@ padding: 3%;
 }  
 .co{
     display: flex;
+}
+.a1{
+    background-color: black;
+    width: 100vw;
+    height: 100vh;
+    color: aliceblue;
+}
+.ab{
+    display: flex;
+    justify-content: center;
+    
+
+}
+.ad{
+    margin-top: 40px;
+}
+.q1{
+    display: flex;
+    justify-content: space-evenly; 
+
+}
+.q2{
+    margin-top: 50px;
 }
