@@ -2,6 +2,7 @@ import React from 'react';
 import { BrowserRouter as Router,Route,Routes,useNavigate, BrowserRouter} from 'react-router-dom';
 import Login from './Login';
 import Home from './Home';
+import About from './About';
 
 const Pages = () => {
   return (
@@ -9,7 +10,7 @@ const Pages = () => {
           <Routes>
             <Route path="/" element={<Login/>}/>
             <Route path="/Home" element={<Home/>}/>
-            
+            <Route path="/Home/About" element={<About/>}/>
           </Routes>
           </BrowserRouter>
   )

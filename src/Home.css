@@ -7,11 +7,8 @@
 .nav1{
     background-color: black;
     color: white;
+    padding: 20px;
     border-radius: 15px;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    margin: 3px;
 }
 h1,li,ul{
     display: inline;
