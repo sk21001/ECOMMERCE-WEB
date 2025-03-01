@@ -9,7 +9,7 @@ const Home = () => {
   < div className='header1'>
     <div className='header2'>
       <nav className='nav1'>
-        <h1>AMAZON</h1>
+        <h1>LAP STORE</h1>
         <ul>
 
           <Link to= "./About" className='About'> <li>ABOUT</li></Link> 
