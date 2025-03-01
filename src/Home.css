@@ -12,6 +12,7 @@
 }
 h1{
     display: inline;
+    margin-bottom: 3px;
 }
 li,ul{
     display: inline;
